@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=short) |
-| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=short) |
+| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **TikTok Marketing Mastery for Small Businesses**.
+Or open the full catalog and select **TikTok Marketing Mastery for Small Businesses**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
